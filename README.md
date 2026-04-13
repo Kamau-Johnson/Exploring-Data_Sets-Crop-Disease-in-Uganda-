@@ -1,4 +1,9 @@
 ## 2.2 Explore Dataset
+<p float="center"> 
+  <img src="datasets1.png" width="30%" /> 
+    <img src="datasets2.png" width="30%" /> 
+      <img src="datasets3.png" width="30%" /> 
+</p
 
 ### Getting Ready
 
